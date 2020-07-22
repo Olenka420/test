@@ -189,5 +189,3 @@ return sum;
 
 }
 alert(summa(number));
-
-//задача 17
